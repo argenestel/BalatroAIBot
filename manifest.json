@@ -1,0 +1,9 @@
+{
+  "id": "balatroai",
+  "name": "Balatroai Bot",
+  "author": ["arg"],
+  "description": "a simple balatro ai bot",
+  "prefix": "autobot",
+  "version": "0.1.0",
+  "main_file": "main.lua"
+}
